@@ -17,7 +17,9 @@ Ensuite, **en utilisant votre login (name) et email pour vous connecter à Githu
     git config --global user.name "JohnDoe"
     git config --global user.email johndoe@example.com
 
-Votre git sur votre poste de travail est désormait lié à github !   
+Votre git sur votre poste de travail est désormait liable à votre compte github !  
+
+Vous trouverez plus de détails à cette adresse : https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Param%C3%A9trage-%C3%A0-la-premi%C3%A8re-utilisation-de-Git
 
 ## Liste des commandes GIT
 
@@ -80,6 +82,13 @@ $ **git pull upstream main** : permet de mettre à jour votre dossier en LOCAL p
 
 ---
 
+## Pour créer un fork depuis un projet existant
+
+Utile pour travailler en équipe (merci encore à @QuentinFayt ):
+
+![alt text](https://raw.githubusercontent.com/mikhawa/git-commun/main/img/Quentin01.PNG "FR")
+![alt text](https://raw.githubusercontent.com/mikhawa/git-commun/main/img/Quentin02.PNG "FR")
+![alt text](https://raw.githubusercontent.com/mikhawa/git-commun/main/img/Quentin03.PNG "FR")
 
 ## Liste des commandes Linux
 
