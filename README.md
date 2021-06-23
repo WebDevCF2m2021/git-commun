@@ -2,6 +2,10 @@
 
 ## Premier projet de travail en groupe
 
+### Liste des commandes GIT
+
+[Lien vers l'image git-cheat-sheet](https://raw.githubusercontent.com/mikhawa/g_i_t/main/img/Git-cheat-sheet.jpg "git-cheat-sheet")
+
 ### Liste des commandes Linux
 
 Elles sont utiles car git est créé par Linus Torvalds, créateur de Linux.
@@ -43,7 +47,7 @@ Quelque soit votre système d'exploitation (Windows, Mac ou Linux), ces commande
 
 [Lien vers le PDF Commandes Linux](https://github.com/WebDevCF2m2021/git-commun/raw/main/commandes%20Linux/commandes_linux.pdf "Memento Linux")
 
-[Lien vers le PDF Commandes Linux](https://github.com/WebDevCF2m2021/git-commun/raw/main/commandes%20Linux/memento_linux.pdf "Memento Linux")
+[Lien vers le PDF Memento Linux](https://github.com/WebDevCF2m2021/git-commun/raw/main/commandes%20Linux/memento_linux.pdf "Memento Linux")
 
 
 
